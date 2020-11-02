@@ -1,7 +1,5 @@
-package everyday_ex.day1;
+package everyday_ex.d20_10_23;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Stack;
 
 public class easy_10_23 {

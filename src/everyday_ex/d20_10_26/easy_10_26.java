@@ -1,4 +1,4 @@
-package everyday_ex.day2;
+package everyday_ex.d20_10_26;
 
 import java.util.Arrays;
 

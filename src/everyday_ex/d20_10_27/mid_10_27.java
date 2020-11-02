@@ -1,4 +1,4 @@
-package everyday_ex.day3;
+package everyday_ex.d20_10_27;
 
 import java.util.ArrayList;
 import java.util.List;

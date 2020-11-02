@@ -1,4 +1,4 @@
-package everyday_ex.day6;
+package everyday_ex.d20_10_30;
 
 public class easy_10_30 {
     public static void main(String[] args) {

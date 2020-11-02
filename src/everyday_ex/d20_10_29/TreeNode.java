@@ -1,4 +1,4 @@
-package everyday_ex.day3;
+package everyday_ex.d20_10_29;
 
 public class TreeNode {
     int val;
@@ -6,7 +6,7 @@ public class TreeNode {
     TreeNode right;
     TreeNode() {}
     TreeNode(int val) { this.val = val; }
-    TreeNode(int val, TreeNode left, TreeNode right) {
+    TreeNode(int val,TreeNode left,TreeNode right) {
         this.val = val;
         this.left = left;
         this.right = right;

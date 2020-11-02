@@ -1,6 +1,4 @@
-package everyday_ex.day5;
-
-import sun.reflect.generics.tree.Tree;
+package everyday_ex.d20_10_29;
 
 public class mid_10_29 {
     public static void main(String[] args) {
